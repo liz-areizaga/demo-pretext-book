@@ -11,10 +11,10 @@
     </caption>
     <image xml:id="sageplot-updown" width="45%">
       <sageplot> 
-        f(x) = x^2
-        up = plot(f, (x, -1.5, 1.5), color='blue', thickness=2)
-        up
-        </sageplot>
+      f(x) = x^2
+      up = plot(f, (x, -1.5, 1.5), color='blue', thickness=2)
+      up
+      </sageplot>
     </image>
   </figure>
 
