@@ -5,4 +5,10 @@
 
   <p> Text of section. </p>
 
+  <figure xml:id="fig-1">
+    <caption>
+      Let's make a nice figure
+    </caption>
+  </figure>
+
 </section>
