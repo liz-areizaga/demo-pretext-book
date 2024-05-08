@@ -18,4 +18,12 @@
     </image>
   </figure>
 
+  <figure xml:id="fig-1">
+    <caption>
+      Let's make a nice figure
+    </caption>
+    <image xml:id="img-1" source="images/q3_pause.jpg" width="45%">
+    </image>
+  </figure>
+
 </section>
